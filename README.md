@@ -1,1 +1,1 @@
-# redefining the core of coding with 70/30.
+# redefining the core of coding with 70/30 rule.
